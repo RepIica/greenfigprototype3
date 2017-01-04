@@ -52,7 +52,7 @@ body{
   transform: translateY(-50%);
 }
 .facebook {
-  background-image: url("../layers export/facebook-solid.png");
+  background-image: url("../layers-export/facebook-solid.png");
   width: 24px;
   height: 23px;
   left: 85%;
@@ -91,7 +91,7 @@ body{
   height: 100%;
 }
 #slide1{
-  background-image: url("../layers export/greenfig-mockup-3-export_0002s_0000_pexels-photo-67514.png");
+  background-image: url("../layers-export/greenfig-mockup-3-export_0002s_0000_pexels-photo-67514.png");
 }
 #slide2{
   background-image: url("../images/coffee-macaron.jpg");
@@ -112,7 +112,7 @@ body, html {
   
 }
 .section2{
-  background-image: url("../layers export/greenfig-mockup-3-export_0003s_0004_streudle.png");
+  background-image: url("../layers-export/greenfig-mockup-3-export_0003s_0004_streudle.png");
   background-size: cover;
   background-position: center center;
   background-color: rgb(67, 67, 67);
